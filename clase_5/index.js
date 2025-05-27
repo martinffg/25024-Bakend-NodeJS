@@ -1,6 +1,8 @@
 // nvm
 // const fs = require("fs");
 // const os = require("os");
+// const math = require("./math");  // me traigo un modulo interno
+
 // // puedo hacer destruturing
 // // const math = require('./modulos/math')
 // const { suma, resta, multi, divi } = require("./modulos/math");
@@ -31,3 +33,6 @@ console.log(divi(2, 4));
 //   }
 //   console.log("Archivo creado");
 // });
+
+// En la carpeta del proyecto
+// > npm install expres
